@@ -1,10 +1,10 @@
 ![alt text](https://github.com/vinaysingh20/Web_activity_tracker/blob/main/icon16.png)
 
+![alt text](https://github.com/AnkitMourya12/Activity_tracker_extention/blob/master/ext1.png)
+
 # Activity Tracker Instructions:-
-# output "C:\Users\morya\OneDrive\Desktop\activity tracker\ext1.png"
 
  A Chrome extension that will track all the time you are spending on each website. And provide analytical information to organize the time you are spending on the internet. 
-
 The aim of this project will be to make people focus on productivity and reduce the time spent on distractive websites like Instagram, Facebook, Netflix, etc.
 
 ## Today's Usage
