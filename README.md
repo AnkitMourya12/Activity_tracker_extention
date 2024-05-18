@@ -23,3 +23,11 @@ Similar to "Today's Usage", but displays data collected accross all time of univ
 - Daily reset: By default the today's usage data is reset at 4:20AM, however the user can manually set this time.
 
 - Reset: The user can reset the total collected data for today, or all time.
+
+- ## Tech stack 
+- Fron end framworks
+- HTML
+- CSS
+- JAVASCRIPT
+- this extention will hold data until the system opens.
+- I have not use Any database 
